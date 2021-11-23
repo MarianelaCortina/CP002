@@ -1,0 +1,4 @@
+{
+    "filterResultPriceClick": "[attribute='price'] > .filter-options-content > .items > :nth-child(3) >",
+    "filterResultPriceBanner": ".toolbar-number"
+}
